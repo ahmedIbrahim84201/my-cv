@@ -1,0 +1,22 @@
+.style {
+  font-size: 25px;
+  text-align: center;
+  padding-top: 250px;
+}
+.spacing {
+  padding-top: 20px;
+  font-size: 60px;
+}
+.phone-number {
+  padding-top: 20px;
+}
+.before {
+  padding-left: 50px;
+  text-align: center;
+}
+.name {
+  color: rgba(255, 136, 0, 0.987);
+}
+.flex {
+  display: flex;
+}
